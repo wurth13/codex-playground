@@ -1,3 +1,4 @@
 # Minimal set of third-party libraries the script relies on
 pandas
 matplotlib
+requests
